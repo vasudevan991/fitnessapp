@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="20" width="100" height="80" rx="20" fill="#F5F5F5" stroke="#4F8A8B" stroke-width="4"/>
+  <ellipse cx="60" cy="60" rx="32" ry="32" fill="#FFF" stroke="#4F8A8B" stroke-width="4"/>
+  <rect x="30" y="90" width="60" height="10" rx="3" fill="#FFD166"/>
+  <rect x="40" y="95" width="2" height="5" fill="#4F8A8B"/>
+  <rect x="50" y="95" width="2" height="5" fill="#4F8A8B"/>
+  <rect x="60" y="95" width="2" height="5" fill="#4F8A8B"/>
+  <rect x="70" y="95" width="2" height="5" fill="#4F8A8B"/>
+  <rect x="80" y="95" width="2" height="5" fill="#4F8A8B"/>
+  <circle cx="60" cy="60" r="10" fill="#FFD166" stroke="#4F8A8B" stroke-width="2"/>
+  <rect x="58" y="40" width="4" height="20" rx="2" fill="#4F8A8B"/>
+  <text x="60" y="115" text-anchor="middle" font-size="14" fill="#4F8A8B" font-family="Arial">Calorie Counter</text>
+</svg>
